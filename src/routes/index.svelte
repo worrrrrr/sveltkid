@@ -1,3 +1,7 @@
+<script>
+	import Search from '$lib/Search.svelte';
+</script>
+
 <!-- src/routes/index.svelte -->
 <svelte:head>
 	<title>Welcome</title>
